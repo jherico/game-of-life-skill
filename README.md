@@ -5,7 +5,7 @@ Run game of life on the screen
 Conway's game of life
 
 ## Examples
-* "Play lfe"
+* "Play life"
 * "Play the game of life"
 * "Play game of life"
 
@@ -16,7 +16,7 @@ Bradley Austin Davis
 **Entertainment**
 
 ## Tags
-#Gameof life
+#Game of life
 #Life
 #Conway
 
