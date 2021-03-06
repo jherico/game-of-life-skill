@@ -1,0 +1,6 @@
+
+
+@shaderId=XlX3Rj
+@appKey=ftnKMn
+
+GET https://www.shadertoy.com/api/v1/shaders/{{shaderId}}?key={{appKey}}
